@@ -37,7 +37,7 @@
   
   ## Links
    * Deployed link to Heroku: https://powerful-hamlet-45075.herokuapp.com
-   * GitHub repository link:  
+   * GitHub repository link:  https://github.com/Enxhis/Workout-App
   
   ## Contribution
    * Enxhi Salaj
