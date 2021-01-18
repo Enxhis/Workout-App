@@ -34,6 +34,9 @@
    * Navigate to the localhost port: http://localhost:3000 in the browser.
   
   ## Image
+   ![Workout-App](/public/Images/main-page-screenshot.png)
+  
+   ![Workout-App](/public/Images/Stats-Screenshot.png)
   
   ## Links
    * Deployed link to Heroku: https://powerful-hamlet-45075.herokuapp.com
